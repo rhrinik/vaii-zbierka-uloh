@@ -1,0 +1,9 @@
+table, td, th {
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+th {
+    background: #16a085;
+    font-weight: bold;
+}
